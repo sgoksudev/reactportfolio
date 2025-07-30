@@ -69,7 +69,7 @@
       id: 1,
       title: "Crypto Tracking App ",
       des: "A cryptocurrency price tracking website or web app using realtime API. We will get the real time price of cryptocurrency from CoinGecko API. Using this API data we will build the Price chart also. On this app you can use the search bar and search for individual currency.",
-      img: "public/crypto.png",
+      img: "/crypto.png",
       iconLists: ["/re.svg", "/tail.svg", "/js.png", "/vite.svg", "/fm.svg"],
       href: "/https://crypto-five-rose.vercel.app/",
       link: "https://crypto-five-rose.vercel.app/"
